@@ -1,0 +1,15 @@
+.wrapper {
+  background-color: darkcyan;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.title {
+  color: white;
+  margin: 0;
+}
+
+.button {
+  background-color: black;
+  width: fit-content;
+}
